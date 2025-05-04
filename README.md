@@ -1,0 +1,2 @@
+# StopWatch
+ The Stopwatch add-on adds stopwatch functionality to NVDA with the following features. The seconds progress is counted: by speech, sound, or silently. There are several options for choosing the interval for voice or sound notification. Control the stopwatch from the virtual mode with single-letter commands or using separate shortcuts. You can start the virtual mode by pressing NVDA+F7.
